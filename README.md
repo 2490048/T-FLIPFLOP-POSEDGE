@@ -52,8 +52,8 @@ begin
 ![{E4F44681-8B4A-42D7-8485-98115554742C}](https://github.com/user-attachments/assets/a353d6a5-064d-4107-aa21-2ff360a788d3)
 
 end
-
 endmodule
+
 /* Program for flipflops and verify its truth table in quartus using Verilog programming. Developed by:RAHUL RP RegisterNumber:24900488
 */
 
